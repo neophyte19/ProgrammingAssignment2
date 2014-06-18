@@ -1,7 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
  # takes no.of rows and no.of columns as argument and creates special "matrix" which can set / get matrix , set/get inv from cache
 makeCacheMatrix <- function(nrows,ncols,...){
     inv<<- NULL    
